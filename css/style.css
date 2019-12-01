@@ -1,0 +1,21 @@
+.wrap{
+    width: 60%;
+    margin: 0 auto;
+}
+
+.card{
+    color: black;
+}
+.wrapper{
+    text-align: center;
+}
+
+.wrapper input{
+    margin-top: 20px;
+    border-radius: 10px;
+
+}
+
+.result{
+    font-weight: bold;
+}
