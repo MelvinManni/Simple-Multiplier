@@ -1,3 +1,6 @@
+body{
+    background-color: rgb(63, 59, 59);
+}
 .wrap{
     width: 60%;
     margin: 0 auto;
