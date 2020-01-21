@@ -23,6 +23,15 @@ body{
 
 }
 
+#loader{
+    display: none;
+}
+
+
+#result-span{
+    display: none;
+}
+
 @media all and (max-width: 720px){
     .wrap{
         width: 100%;
